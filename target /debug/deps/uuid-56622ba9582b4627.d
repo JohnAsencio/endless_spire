@@ -1,0 +1,12 @@
+/Users/johnasencio/Desktop/Programming in Rust/endless_spire/target/debug/deps/uuid-56622ba9582b4627.rmeta: /Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/lib.rs /Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/builder.rs /Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/error.rs /Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/parser.rs /Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/fmt.rs /Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/timestamp.rs /Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/external.rs /Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/macros.rs
+
+/Users/johnasencio/Desktop/Programming in Rust/endless_spire/target/debug/deps/uuid-56622ba9582b4627.d: /Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/lib.rs /Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/builder.rs /Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/error.rs /Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/parser.rs /Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/fmt.rs /Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/timestamp.rs /Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/external.rs /Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/macros.rs
+
+/Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/lib.rs:
+/Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/builder.rs:
+/Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/error.rs:
+/Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/parser.rs:
+/Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/fmt.rs:
+/Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/timestamp.rs:
+/Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/external.rs:
+/Users/johnasencio/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.1/src/macros.rs:
